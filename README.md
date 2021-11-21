@@ -1,1 +1,2 @@
-# NLP-based-Poetry-Analysis-and-Recognition
+# NLP based Poetry Analysis and Recognition
+This program 
